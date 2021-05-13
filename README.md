@@ -1,4 +1,4 @@
-# MovieApiApp
+# Movie Api App
 This SwiftUI lets the user query the movie Database API and see the results.
 
 ### API Link
